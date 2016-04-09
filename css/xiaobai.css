@@ -1,0 +1,198 @@
+ 
+/*小白布局开始*/
+ .xiaobai{
+	float:left;
+	width:560px;
+	height:450px;
+	text-align: left;
+	margin-top: 2px;
+	background-color:#00FF00;
+	margin-left:110px;
+	
+ }
+ 
+ /*左边第2个div*/
+ 
+ .xiaobai1{
+	float:left;
+	width:560px;
+	height:450px;
+	text-align:left;
+	margin-top:2px;
+	background-color:#00FF00;
+	margin-left:20px;
+	
+	
+	
+	 
+ }
+ 
+ /*第2排左边第一个div*/
+ .xiaobai2{
+	
+	float:left;
+	width:450px;
+	height:546px;
+	text-align:left;
+	margin-top:17px;
+	background-color:#00FF00;
+	margin-left:110px;
+	 
+ }
+ /*热门文章*/
+ 
+ .top{
+	margin: 0 auto;
+	border: 1px solid green;
+	height:24px;
+	background:green;
+	margin-left:200px;	
+	 
+ }
+ 
+ /*热门文章底部*/
+.top1{
+	
+	margin-top:400px;
+	
+	
+}
+	
+	
+	
+	
+	
+	
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*第2排右边第2个div*/
+.xiaobai3{
+	float:left;
+	width:671px;
+	height:180px;
+	text-align:left;
+	margin-top:17px;
+	background-color:blue;
+	margin-left:20px;
+ }
+ 
+ /*注意第3排div第一个开始*/
+ .xiaobai4{
+	float:left;
+	width:671px;
+	height:180px;
+	text-align:left;
+	margin-top:0px;
+	background-color:#00FF00;
+	margin-left:20px;
+	border:1px solid Silver;
+ }
+ 
+ /*最后一个div开始*/
+ 
+ .ltt{
+	float:left;
+	width:671px;
+	height:180px;
+	text-align:left;
+	margin-top:0px;
+	background-color:#00FF00;
+	margin-left:20px;
+	border:1px solid Silver;
+	 
+	 
+ }
+ 
+ /*最后一个div最左边一个*/
+ 
+ .fei{
+	float:left;
+	width:1142px;
+	height:230px;
+	text-align:left;
+	margin-top:0px;
+	background-color:#00FF00;
+	margin-left:110px;
+	border:1px solid Silver;
+	
+	
+	 
+ }
+ 
+ /*热门点击*/
+ 
+ .top2{
+	 
+	
+	margin-left:20px;
+	
+	 
+	 
+	 
+ }
+ .xuxian{
+	margin-left:20px; 
+ }
+ 
+ /*盒子模型*/
+ .op{
+	border:1px solid red;
+	width:205px;
+	height:130px;
+	margin-left:20px;	
+	float:left;
+	 
+ }
+ 
+.op img,.op1 img{
+width:205px;
+height:130px;
+overflow:hidden;
+}
+ 
+ 
+ 
+ .op1{
+	border:1px solid green;
+	width:205px;
+	height:130px;
+	margin-left:20px;
+	float:left;
+	margin-left:20px;
+	 
+	 
+ }
+ 
+
+
+a:link{
+	
+	text-decoration:none;
+	font-size:15px;
+}
+
+a:hover{
+	
+	font-size:15px;
+	color:green;
+}
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
